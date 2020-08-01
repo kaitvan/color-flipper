@@ -1,3 +1,25 @@
 body {
-    background-color: cadetblue;
+    background-color: indigo;
 }
+
+.container {
+    text-align: center;
+}
+
+.label {
+    background-color: #f8f9fa;
+    color: #212529;
+    border-color: #f8f9fa;
+    border-radius: .25em;
+    height: 3em;
+    margin: 1em;
+    text-align: center;
+    padding: .375rem .75rem;
+}
+
+.btn {
+    margin: auto;
+}
+
+
+
